@@ -1,0 +1,6 @@
+framework module Pods_ioshadi_Tests {
+  umbrella header "Pods-ioshadi_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ioshadi (0.1.0)
+
+DEPENDENCIES:
+  - ioshadi (from `../`)
+
+EXTERNAL SOURCES:
+  ioshadi:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ioshadi: e44bc9bbd273d1aae7136a3ac66890de626c3eac
+
+PODFILE CHECKSUM: fc0ab4943ce51a4c00b19a02e4803da91d94d17a
+
+COCOAPODS: 1.4.0.beta.2

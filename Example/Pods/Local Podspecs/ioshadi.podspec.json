@@ -1,0 +1,22 @@
+{
+  "name": "ioshadi",
+  "version": "0.1.0",
+  "summary": "A short description of ioshadi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hadi/ioshadi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hadi": "dxbmoza@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hadi/ioshadi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ioshadi/Classes/**/*"
+}
