@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ioshadi_Example' do
+  pod 'ioshadi', :path => '../'
+
+  target 'ioshadi_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
